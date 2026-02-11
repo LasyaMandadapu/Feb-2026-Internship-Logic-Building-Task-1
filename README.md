@@ -3,7 +3,7 @@ Logic Building Task solutions completed for Data Science Internship – February
 
 ## 📌 Overview
 This repository contains the **Logic Building Task – 1** solutions completed as part of the **Data Science Internship – February 2026**.
-All programs are written in **Python** with clean structure, proper comments, and clear outputs as required in the internship guidelines
+All programs are written in **Python** with clean structure
 
 ## 🧠 Tasks Included
 
